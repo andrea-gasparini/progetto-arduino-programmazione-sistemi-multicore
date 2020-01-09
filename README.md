@@ -1,4 +1,3 @@
-# Progetto Arduino
-## Programmazione di Sistemi Multicore
+# Progetto Arduino - Programmazione di Sistemi Multicore
 
 > Andrea Gasparini
